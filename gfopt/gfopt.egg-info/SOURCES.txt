@@ -1,0 +1,5 @@
+setup.py
+src/gfopt.egg-info/PKG-INFO
+src/gfopt.egg-info/SOURCES.txt
+src/gfopt.egg-info/dependency_links.txt
+src/gfopt.egg-info/top_level.txt

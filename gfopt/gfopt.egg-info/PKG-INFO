@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: gfopt
+Version: 0.0.1
+Summary: A collection of gradient-free optimizers
+Home-page: https://github.com/pjstanle/gfopt
+Author: PJ Stanley
+Author-email: pj.stanley@nrel.gov
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

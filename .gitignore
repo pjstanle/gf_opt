@@ -1,6 +1,6 @@
 build/*
 dist/*
-gf_opt.egg-info/*
+gfopt.egg-info/*
 *.swp
 *.pdf
 *.png
